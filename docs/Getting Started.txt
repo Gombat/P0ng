@@ -1,0 +1,6 @@
+
+Setting up LWJGL with ecplise:
+http://www.lwjgl.org/wiki/index.php?title=Setting_Up_LWJGL_with_Eclipse
+
+Slick:
+http://slick.cokeandcode.com/index.php?category=2

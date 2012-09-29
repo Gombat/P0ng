@@ -1,0 +1,6 @@
+
+setup lwjgl for eclipse
+http://www.lwjgl.org/wiki/index.php?title=Setting_Up_LWJGL_with_Eclipse
+
+pong tut
+http://gamedev.moparscape.org/smf/index.php?topic=513140.0

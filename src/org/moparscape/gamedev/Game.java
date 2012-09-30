@@ -12,7 +12,7 @@ public class Game extends BasicGame
 	static int fpsLimit = 60;
 	static int scoretxtright = width - 120;
 	static int txth1posx = width / 2 - 75;
-	static int gamemode = 1;
+	static int gamemode = 1; // If gamemode == 0 -> Singelplayer; gamemode == 1 -> Multiplayer
 	
 	Circle ball;
 	Rectangle paddlePlayer;
